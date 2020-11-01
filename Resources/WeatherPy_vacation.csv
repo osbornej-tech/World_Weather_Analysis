@@ -1,0 +1,27 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name,Hotel name
+0,Alice springs,AU,87.8,clear sky,-23.7,133.88,Desert Palms Alice Springs,Desert Palms Alice Springs
+2,Marbella,ES,66.99,clear sky,36.52,-4.89,Hotel Fuerte Marbella,Hotel Fuerte Marbella
+3,Sur,OM,83.64,clear sky,22.57,59.53,Sur Plaza Hotel,Sur Plaza Hotel
+4,Bedi,IN,89.4,clear sky,22.5,70.05,Hotel Aram,Hotel Aram
+5,Padang,ID,80.82,light rain,-0.95,100.35,Mercure Padang,Mercure Padang
+6,Mogadishu,SO,86.0,scattered clouds,2.04,45.34,Hotel Juba,Hotel Juba
+9,Port alfred,ZA,69.84,light rain,-33.59,26.89,The Halyards Hotel,The Halyards Hotel
+10,Ponta do sol,PT,77.0,few clouds,32.67,-17.1,Hotel do Campo,Hotel do Campo
+15,Puerto del rosario,ES,75.2,clear sky,28.5,-13.86,Hotel JM Puerto del Rosario,Hotel JM Puerto del Rosario
+16,Berberati,CF,88.66,scattered clouds,4.26,15.79,Berbérati,Berbérati
+18,Ribeira grande,PT,69.8,scattered clouds,38.52,-28.7,Quinta da Meia Eira,Quinta da Meia Eira
+24,Cabo san lucas,MX,71.01,clear sky,22.89,-109.91,Hotel Tesoro Los Cabos,Hotel Tesoro Los Cabos
+25,Gat,IL,81.0,few clouds,31.61,34.76,OlusHome,OlusHome
+27,Yarada,IN,91.4,haze,17.65,83.27,"D-26/2, Dolphin Hill,","D-26/2, Dolphin Hill,"
+28,Kapaa,US,71.6,clear sky,22.08,-159.32,Sheraton Kauai Resort at Coconut Beach,Sheraton Kauai Resort at Coconut Beach
+29,Matara,LK,86.05,clear sky,5.95,80.54,Amaloh Boutique Resort,Amaloh Boutique Resort
+32,Hithadhoo,MV,83.43,light rain,-0.6,73.08,Scoop Guest House,Scoop Guest House
+36,Faya,SA,77.0,few clouds,18.39,42.45,مقبرة ال مجمل,مقبرة ال مجمل
+37,Kupang,ID,83.32,scattered clouds,-10.17,123.58,Sylvia Hotel Premier Kupang,Sylvia Hotel Premier Kupang
+38,Butaritari,KI,82.29,overcast clouds,3.07,172.79,Isles Sunset Lodge,Isles Sunset Lodge
+39,Meulaboh,ID,80.22,moderate rain,4.14,96.13,Kost Pria,Kost Pria
+42,Tiarei,PF,77.0,clear sky,-17.53,-149.33,Le Rocher de Tahiti,Le Rocher de Tahiti
+49,Rio de janeiro,BR,69.8,broken clouds,-22.9,-43.21,Windsor Guanabara Hotel,Windsor Guanabara Hotel
+52,Vaini,TO,75.2,broken clouds,-21.2,-175.2,Keleti Beach Resort,Keleti Beach Resort
+53,Pemba,MZ,86.0,broken clouds,-12.97,40.52,Guesthouse Samotina,Guesthouse Samotina
+55,Georgetown,MY,86.0,few clouds,5.41,100.34,Cititel Penang,Cititel Penang
