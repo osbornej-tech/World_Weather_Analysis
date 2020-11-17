@@ -11,7 +11,7 @@ The vacation search and itinerary maps contain markers that provide users with i
 <img src = 'https://github.com/osbornej-tech/World_Weather_Analysis/blob/main/Resources/WeatherPy_travel_map_markers.png'>
 
 ## Datafiles
-OenWatherMap API
+OpenWatherMap API
 
 ## Dependencies
 import pandas as pd
